@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5f27b058e25fb30f40160863"},"name":"Akmal","surname":"Sobirov","age":{"$numberInt":"30"},"occupation":"FullStack Developer","salary":{"$numberInt":"3000"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5f27b1d8301a3b110467a36c"},"name":"Arslon","surname":"Abdullayev","age":{"$numberInt":"31"},"occupation":"Server Side Developer","salary":{"$numberInt":"2000"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5f27b2450fbd390dd06495e2"},"name":"Muhammad","surname":"Aminov","age":{"$numberInt":"30"},"occupation":"Bank manager","salary":{"$numberInt":"2000"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5f27c8da43978e1584f5b11b"},"name":"Elyor","surname":"Hudayberganov","age":{"$numberInt":"30"},"occupation":"Book-Keeper","salary":{"$numberInt":"1800"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5f27c9d5f3aac60dc8390eb7"},"name":"Islom","surname":"Mullayev","age":{"$numberInt":"30"},"occupation":"Businessman","salary":{"$numberInt":"3000"},"__v":{"$numberInt":"0"}}
